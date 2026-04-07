@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 
 In this practical, I created a TikTok-like web app using Next.js. It includes pages, layout, video feed, and login/signup forms.
@@ -51,3 +52,33 @@ Tested form validation (empty fields, invalid input)
 Conclusion
 
 This practical helped me understand Next.js, components, and form handling.
+=======
+ Project
+
+RESTful API Weather Application
+
+- Description
+
+A simple web app to get weather data and manage locations using APIs.
+
+- Technologies used
+
+HTML
+CSS
+JavaScript
+OpenWeather
+JSONPlaceholder
+
+-Setup
+
+Get API key from OpenWeather
+Replace in script.js
+Open index.html in live server
+
+-Features
+
+GET: Fetch weather
+POST: Save location
+PUT: Update location
+DELETE: Remove location
+>>>>>>> 86c4314 (weather-api)
